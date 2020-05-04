@@ -1,0 +1,2 @@
+This file is written by node.js
+The file was created by Deepak and this message is appended to the original message
